@@ -1,3 +1,5 @@
+#terrform scripts
+
 terraform {
   required_providers {
     azurerm = {
